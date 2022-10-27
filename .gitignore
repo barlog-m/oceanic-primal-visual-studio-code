@@ -1,0 +1,9 @@
+# macOS
+*~
+.DS_Store
+
+# Vim
+.vim/
+
+# VS Code
+.vscode/
