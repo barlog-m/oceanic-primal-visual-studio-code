@@ -2,6 +2,12 @@
 
 # Oceanic Primal color scheme for Visual Studio Code Changelog
 
+## [0.0.3]
+
+### Changes
+
+- Readme update
+
 ## [0.0.2]
 
 ### Changes
