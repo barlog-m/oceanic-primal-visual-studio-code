@@ -15,9 +15,9 @@ A minimalistic theme based on [Oceanic Primal palette](https://github.com/oceani
 
 [Extensions for Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=barlog-m.oceanic-primal-color-theme)
 
-![Screenshot](https://raw.githubusercontent.com/barlog-m/oceanic-primal-visual-studio-code/9a783f22fd0daf00ef239ae5c34179b1ef2acc55/screenshot0.png)
-![Screenshot](https://raw.githubusercontent.com/barlog-m/oceanic-primal-visual-studio-code/9a783f22fd0daf00ef239ae5c34179b1ef2acc55/screenshot1.png)
-![Screenshot](https://raw.githubusercontent.com/barlog-m/oceanic-primal-visual-studio-code/9a783f22fd0daf00ef239ae5c34179b1ef2acc55/screenshot2.png)
+![Screenshot](https://raw.githubusercontent.com/barlog-m/oceanic-primal-visual-studio-code/master/screenshot0.png)
+![Screenshot](https://raw.githubusercontent.com/barlog-m/oceanic-primal-visual-studio-code/master/screenshot1.png)
+![Screenshot](https://raw.githubusercontent.com/barlog-m/oceanic-primal-visual-studio-code/master/screenshot2.png)
 
 Font on screenshots is [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)
 
